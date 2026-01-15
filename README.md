@@ -1,4 +1,4 @@
-﻿# MediumEditor Tables
+﻿# MediumEditor Tables Test
 
 [![NPM info](https://nodei.co/npm/medium-editor-tables.png?downloads=true)](https://nodei.co/npm/medium-editor-tables.png?downloads=true)
 
